@@ -1,0 +1,7 @@
+cafe noire;10;C:\Users\lenovo\Downloads\Cafe\Cafe\src\img\cafe.png
+cappuccino;9;C:\Users\lenovo\Downloads\Cafe\Cafe\src\img\cappuccino.png
+cafe lait;10;C:\Users\lenovo\Downloads\Cafe\Cafe\src\img\cafelait.png
+jus orange ;8;C:\Users\lenovo\Downloads\Cafe\Cafe\src\img\orange.png
+pepsi;7;C:\Users\lenovo\Downloads\Cafe\Cafe\src\img\pepsi.png
+jus citcitron;8;C:\Users\lenovo\Downloads\Cafe\Cafe\src\img\citron.png
+

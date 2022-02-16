@@ -1,0 +1,6 @@
+petite pain;8;C:\Users\lenovo\Downloads\Cafe\Cafe\src\img\ppain.png
+mlawi;5;C:\Users\lenovo\Downloads\Cafe\Cafe\src\img\mlawi.png
+mille fuilles;6;C:\Users\lenovo\Downloads\Cafe\Cafe\src\img\milf.png
+harcha;8;C:\Users\lenovo\Downloads\Cafe\Cafe\src\img\harcha.png
+macaron;8;C:\Users\lenovo\Downloads\Cafe\Cafe\src\img\macaron.png
+schneck;8;C:\Users\lenovo\Downloads\Cafe\Cafe\src\img\schneck.png
